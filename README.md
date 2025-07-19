@@ -62,7 +62,7 @@ The system allows users to upload PDF and DOCX documents to the cloud (Dropbox),
 
 ## 🚀 Live Demo
 
-🔗 Live system: [https://documents.byethost10.com/documents](https://documents.byethost10.com/documents)  
+🔗 Live system: [https://documents.byethost10.com/documents](https://documents.byethost10.com/)  
 🔗 Dropbox Storage: [https://www.dropbox.com/home/documents](https://www.dropbox.com/home/documents)  
 🔐 Login credentials:  
 - Email: `rbaraka@iugaza.edu.ps`  
